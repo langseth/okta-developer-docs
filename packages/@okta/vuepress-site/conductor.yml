@@ -4664,17 +4664,17 @@ redirects:
   - from: /docs/guides/third-party-risk-integration/test-integration/index.html
     to: /docs/guides/third-party-risk-integration/main/#test-the-integration
   - from: /docs/guides/third-party-risk-integration/create-service-app
-    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#configure-shared-signal-provider
+    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#csh-configure-shared-signal-provider
   - from: /docs/guides/third-party-risk-integration/create-service-app/index.html
-    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#configure-shared-signal-provider
+    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#csh-configure-shared-signal-provider
   - from: /docs/guides/third-party-risk-integration/update-default-provider
-    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#configure-shared-signal-provider
+    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#csh-configure-shared-signal-provider
   - from: /docs/guides/third-party-risk-integration/update-default-provider/index.html
-    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#configure-shared-signal-provider
+    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#csh-configure-shared-signal-provider
   - from: /docs/guides/third-party-risk-integration/test-integration
-    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#configure-shared-signal-provider
+    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#csh-configure-shared-signal-provider
   - from: /docs/guides/third-party-risk-integration/test-integration/index.html
-    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#configure-shared-signal-provider
+    to: https://help.okta.com/oie/en-us/okta_help_CSH.htm#csh-configure-shared-signal-provider
   - from: /docs/guides/configure-access-policy/overview
     to: /docs/guides/configure-access-policy/
   - from: /docs/guides/configure-access-policy/overview/index.html
