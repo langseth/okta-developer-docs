@@ -387,6 +387,10 @@ export const guides = [
             guideName: "okta-account-management-policy"
           },
           {
+            title: "Device assurance policies",
+            guideName: "device-assurance-policies"
+          },
+          {
             title: "Test your access policies",
             guideName: "policy-simulation"
           },
